@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;}
+  
+  header {
+    background-color: #272222;
+    padding: 20px;
+    color: beige;
+  }
+  
+  #cab {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  #bio {
+    margin-left: 20px;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  #t1 p,
+  #t2 p {
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
+  #t1 a,
+  #t2 a {
+    color: blue;
+  }
+  
+  hr {
+    margin: 20px;
+  }
+  
